@@ -154,7 +154,6 @@ h6, .h6 {
 }
 
 p {
-  margin-top: 0;
   margin-bottom: 1rem;
 }
 
@@ -1395,7 +1394,7 @@ progress {
 
   .col-lg-6 {
     flex: 0 0 auto;
-    width: 50%;
+    width: 100%;
   }
 
   .col-lg-7 {
@@ -7477,7 +7476,7 @@ textarea.form-control-lg {
 }
 
 .py-1 {
-  padding-top: 0.25rem !important;
+  padding-top: 0.23rem !important;
   padding-bottom: 0.25rem !important;
 }
 
@@ -7492,7 +7491,7 @@ textarea.form-control-lg {
 }
 
 .py-4 {
-  padding-top: 1.5rem !important;
+  padding-top: 22rem !important;
   padding-bottom: 1.5rem !important;
 }
 
